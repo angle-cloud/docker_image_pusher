@@ -1,4 +1,3 @@
-kaminskypavel/mario:latest
 alexta69/metube
 messense/aliyundrive-webdav
 kagurazakanyaa/palworld:latest       
@@ -37,4 +36,4 @@ linuxserver/plex
 funcman/115pc
 jeessy/ddns-go:latest 
 homeassistant/home-assistant
-
+kaminskypavel/mario:latest
