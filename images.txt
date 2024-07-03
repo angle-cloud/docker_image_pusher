@@ -1,4 +1,3 @@
-mysql
 stainless403/mdcx-builtin-webtop-base
 linuxserver/qbittorrent
 hectorqin/reader
