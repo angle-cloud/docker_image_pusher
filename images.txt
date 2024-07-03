@@ -1,10 +1,8 @@
-johnserfseed/tiktokweb
-chigusa/bililive-go
-talebook/taleboo
+talebook/talebook
 kaminskypavel/mario:latest
 alexta69/metube
 messense/aliyundrive-webdav
-kagurazakanyaa/palworld:latest         #帕鲁
+kagurazakanyaa/palworld:latest       
 wbsu2003/autopiano:latest
 linuxserver/emulatorjs
 cesign/kubespider:latest
