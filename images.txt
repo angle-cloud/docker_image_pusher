@@ -1,4 +1,3 @@
-linuxserver/qbittorrent
 hectorqin/reader
 fogforest/yesplaymusic
 xiaoyaliu/alist:latest
@@ -14,4 +13,3 @@ homeassistant/home-assistant
 etherpad/etherpad
 stainless403/mdcx-builtin-webtop-base
 kaminskypavel/mario:latest
-easifnesw/nastools-unlock
