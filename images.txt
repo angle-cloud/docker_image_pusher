@@ -1,4 +1,3 @@
-talebook/talebook
 kaminskypavel/mario:latest
 alexta69/metube
 messense/aliyundrive-webdav
