@@ -1,15 +1,1 @@
-hectorqin/reader
-fogforest/yesplaymusic
-xiaoyaliu/alist:latest
-zishuo/embyserver
-lovechen/embyserver
-amilys/embyserver
-linuxserver/transmission
-linuxserver/qbittorrent
-linuxserver/plex
-funcman/115pc
-jeessy/ddns-go:latest 
-homeassistant/home-assistant
-etherpad/etherpad
-stainless403/mdcx-builtin-webtop-base
 kaminskypavel/mario:latest
