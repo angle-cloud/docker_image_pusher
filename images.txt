@@ -1,1 +1,1 @@
-ghcr.dockerproxy.com/wy580477/musicn-container:latest
+iptv-org/iptv
